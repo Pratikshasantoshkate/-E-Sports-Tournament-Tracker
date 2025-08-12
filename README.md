@@ -19,6 +19,6 @@ Our vision is to create a decentralized, secure, and transparent platform for ma
 - Implementing tournament brackets and match histories.
 
 ## 5. Contract Address
-*(To be added after deployment)*
+*ST1VEPE7W040AZ79B38E3CAGC9R872PCE3EARHDA0.e-sports-tournament-tracker*
 <img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/4c284dc2-1ab2-43a0-9c23-951d809d48ae" />
 
